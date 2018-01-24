@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+h1, h3 {
+  font-family: Arial, sans-sans-serif;
+  font-weight: normal;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+h1 {
+  font-weight: bold;
+}
+#second {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 24px;
+}
+p {
+  font-family: "Courier New", monospace;
+}
+.important {
+  font-size: 18px;
+}
+a {
+  font-style: italic;
+  text-decoration: none;
+}
